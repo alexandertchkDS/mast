@@ -39,7 +39,7 @@ def main(src_path, mid_path, tgt_path, is_vid):
             sys.exit()
 
 if __name__ == "__main__":
-    src_path = "/home/aman_khullar/how2/vid_id.txt"
+    src_path = "/home/aman_khullar/how2/vid_id.txt" #all vid_ids.
     is_vid = False
     if is_vid:
         mid_path = "/home/aman_khullar/how2/video_action_features/"
